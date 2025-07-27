@@ -95,7 +95,7 @@ def generate_final_pick_order(seed):
         print(f"{bcolors.OKGREEN}{bcolors.BOLD}{sorted_managers[i]}!{bcolors.ENDC}")
         time.sleep(1)
         print(f"{bcolors.OKCYAN}Congratulations {sorted_managers[i]}! {flavor_text[i]}{bcolors.ENDC}\n")
-        time.sleep(10)
+        time.sleep(8)
 
     print("The draft order has been decided! Congratulations and good luck to everyone!")
 
