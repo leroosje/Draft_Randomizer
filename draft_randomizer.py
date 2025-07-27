@@ -99,6 +99,6 @@ def generate_final_pick_order(seed):
 
     print("The draft order has been decided! Congratulations and good luck to everyone!")
 
-verification()
-seed_phrase = "I LOVE FANTASY FOOTBALL" #TO BE PROVIDED AT ACTUAL RUNTIME
-#generate_final_pick_order(seed_phrase)
+#verification()
+seed_phrase = "GABRIEL GIMME A RANDOM ASS FUCKIN FOOTBALL PLAYER... CHRISTIAN KIRK NUMBER #1 PICK!"
+generate_final_pick_order(seed_phrase)
